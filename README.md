@@ -4,4 +4,4 @@
 
 <p><a href="https://www.youtube.com/watch?v=bxM1wr7y8tc">Layouts Grids Code-Along</a></p>.
 
-<a href='https://learn.co/lessons/layouts-grids-code-along' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/layouts-grids-code-along' title='Layouts Grids Code-Along'>Layouts Grids Code-Along</a> on Learn.co and start learning to code for free.</p>
